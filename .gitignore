@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.png
+*.gif
+*.mp4
+.vscode/
+.idea/
