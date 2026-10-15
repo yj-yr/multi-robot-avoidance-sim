@@ -1,7 +1,34 @@
+# Python
 __pycache__/
 *.py[cod]
 *.png
 *.gif
 *.mp4
+
+# IDE
 .vscode/
 .idea/
+*.user
+
+# ROS2 build
+build/
+install/
+log/
+
+# ROS bag / 数据
+*.bag
+*.db3
+*.mcap
+
+# 虚拟环境
+.venv/
+venv/
+
+# 大文件
+*.avi
+*.zip
+*.tar.gz
+
+# 敏感
+.env
+*.secret

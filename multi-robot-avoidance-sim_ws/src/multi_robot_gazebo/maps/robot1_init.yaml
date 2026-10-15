@@ -1,0 +1,7 @@
+robot1:
+  ros__parameters:
+    map_merge:
+      init_pose_x: -7.0
+      init_pose_y: 0.0
+      init_pose_z: 0.0
+      init_pose_yaw: 0.0
